@@ -3,6 +3,7 @@
 ## LAB01
 
 ## LAB02
+In this lab, we will do TD-learning in the 2048 game. We will finish TO-DO function so that it can work better
 
 ## LAB03
 In this lab, we will implement the EEG classification that is EEGNet and DeepConvNet. Moreover, we will change the inside activation function with ReLU, LeakyReLU, and ELU. To see which combination will be the best model with highest accuracy.
